@@ -1,8 +1,5 @@
-# java-pratical-test
-Java Pratical Test
 
-# java-pratical-test
-Java Pratical Test
+<h1>Java Pratical Test</h1>
 <hr>
 
 <p>This text consists of create a program and prints them considering the following: </p>
