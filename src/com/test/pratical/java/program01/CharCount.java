@@ -16,7 +16,7 @@ public class CharCount {
             if(chars.containsKey(c)){ // if the char is in the map
                 chars.put(c, chars.get(c) + 1); // increment count
             } else {
-                chars.put(c, 1); // add a new character tho the map
+                chars.put(c, 1); // add new character to the map
             }
         }
 
