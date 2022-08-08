@@ -21,7 +21,7 @@
   <li>Package -> com.test.pratical.java.program01</li>
   <li>For loops and HashMap</li>
   <li>Main class to run the program</li>
-  <li><a href="(https://github.com/GustavoAmabile/java-pratical-test/blob/master/src/com/test/pratical/java/program01/Main.java)">Open program 01</a></li>
+  <li><a href="https://github.com/GustavoAmabile/java-pratical-test/tree/master/src/com/test/pratical/java/program01">Open program 01</a></li>
 </ul>
 
 
