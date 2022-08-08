@@ -1,5 +1,5 @@
 
-<h1>Java Pratical Test</h1>
+<h1>Java Practical Test</h1>
 <hr>
 
 <p>This text consists of create a program and prints them considering the following: </p>
