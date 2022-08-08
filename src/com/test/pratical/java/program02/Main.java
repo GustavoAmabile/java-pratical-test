@@ -12,7 +12,6 @@ public class Main {
         System.out.println("Enter a String: "); // request user input
         String string = scan.nextLine();
         System.out.println("Original String: " + string); // print input string
-//
 
         Pattern.compile("[a-zA-z]") // pattern searched
                 .matcher(string).results() // search for the pattern
