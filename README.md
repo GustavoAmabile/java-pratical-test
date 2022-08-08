@@ -32,6 +32,7 @@
   <li>Package -> com.test.pratical.java.program02</li>
   <li>Regex and Lambdas</li>
   <li>Main class to run the program</li>
+  <li><a href="https://github.com/GustavoAmabile/java-pratical-test/tree/master/src/com/test/pratical/java/program02">Open program 02</a></li>
 </ul>
 
 <h4>Program 3</h4>
@@ -41,4 +42,5 @@
   <li>Package -> com.test.pratical.java.program03</li>
   <li>Map, Set and TreeSet</li>
   <li>CharCount class to run the program</li>
+  <li><a href="https://github.com/GustavoAmabile/java-pratical-test/tree/master/src/com/test/pratical/java/program03">Open program 03</a></li>
 </ul>
