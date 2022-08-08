@@ -10,9 +10,9 @@ public class Main {
         System.out.println("Enter a String: "); // request user input
         String str = scan.nextLine();
 
-        System.out.println("Original string: " + str); // print original input string
+        System.out.println("Original string: " + str); // print input string
 
-        str = str.toLowerCase(); // set all characters to lower cas
+        str = str.toLowerCase(); // set all characters to lower case
         str = str.replaceAll(" ", ""); // replace all blank spaces for empties values
         str = str.replaceAll("\\d", ""); // replace all numbers for empties values
 
