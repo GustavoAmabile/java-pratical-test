@@ -23,6 +23,7 @@ Java Pratical Test
   <li>Build System -> IntelliJ</li>
   <li>Package -> com.test.pratical.java.program01</li>
   <li>For loops and HashMap</li>
+  <li>Main class to run the program</li>
 </ul>
 
 <h4>Program 2</h4>
@@ -31,4 +32,14 @@ Java Pratical Test
   <li>Build System -> IntelliJ</li>
   <li>Package -> com.test.pratical.java.program02</li>
   <li>Regex and Lambdas</li>
+  <li>Main class to run the program</li>
+</ul>
+
+<h4>Program 3</h4>
+<ul>
+  <li>Language -> Java</li>
+  <li>Build System -> IntelliJ</li>
+  <li>Package -> com.test.pratical.java.program03</li>
+  <li>Map, Set and TreeSet</li>
+  <li>CharCount class to run the program</li>
 </ul>
