@@ -11,8 +11,10 @@
   <li>String must be an input by a user</li>
 </ul>
 
+<p>Command to run the jar file -> java -jar java-pratical-test.jar</p>
+
 <h3>Solutions</h3>
-<p>Four programs are presented for this pratical test</p>
+<p>Three programs are presented for this pratical test</p>
 
 <h4>Program 1</h4>
 <ul>
